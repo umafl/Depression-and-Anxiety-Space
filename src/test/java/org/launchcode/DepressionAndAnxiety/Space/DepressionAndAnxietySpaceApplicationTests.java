@@ -1,4 +1,4 @@
-package org.launchcode.Depression.and.Anxiety.Space;
+package org.launchcode.DepressionAndAnxiety.Space;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package org.launchcode.Depression.and.Anxiety.Space;
+package org.launchcode.DepressionAndAnxiety.Space;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
